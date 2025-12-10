@@ -66,7 +66,7 @@ O modelo alcançou alta acurácia, identificando corretamente frutas em ambiente
 ## **8. Conclusão**
 O projeto apresentou resultados sólidos e demonstrou a viabilidade do uso de Roboflow + Python para detecção de frutas.
 
-# 🛠 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python 3.8+
 - Roboflow
